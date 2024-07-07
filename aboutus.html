@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/navbar.css" />
+    <link rel="stylesheet" href="css/footer.css" />
+    <link rel="stylesheet" href="css/AboutUs.css" />
+    <title>About Us</title>
+  </head>
+
+  <style>
+    /* Global CSS */
+    body {
+      font-family: "Arial", sans-serif;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+    }
+
+    .nav {
+      background-color: #2c3e50;
+      color: #ecf0f1;
+      padding: 0;
+    }
+
+    .nav .containerr {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      padding: 0px;
+    }
+
+    .nav .logo a {
+      color: #ecf0f1;
+      font-size: 24px;
+      text-decoration: none;
+    }
+
+    .nav .navbar ul {
+      list-style-type: none;
+      display: flex;
+      align-items: center;
+      margin-left: 50px;
+    }
+
+    .nav .navbar ul li {
+      margin-left: 100px;
+    }
+
+    .nav .navbar ul li a {
+      color: #ecf0f1;
+      text-decoration: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .nav .navbar ul li a:hover {
+      background-color: #34495e;
+    }
+
+    /* About Us CSS */
+    .isi-about {
+      background-color: #ecf0f1;
+      padding: 5px 0;
+    }
+
+    .isi-about .judul {
+      text-align: center;
+      margin-bottom: 5px;
+    }
+
+    .isi-about .judul h3 {
+      color: #2c3e50;
+      font-size: 2em;
+    }
+
+    .isi-about .teks {
+      text-align: justify;
+      padding: 5px;
+      color: #34495e;
+    }
+
+    .isi-about .anggota {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      margin-top: 5px;
+    }
+
+    .isi-about .anggota table {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      text-align: center;
+      border-spacing: 20px;
+    }
+
+    .isi-about .anggota table p {
+      color: #7f8c8d;
+      margin-top: 0px;
+      margin-bottom: 30px;
+    }
+
+    .isi-about .anggota table img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #2c3e50;
+    }
+
+    .isi-about .anggota table h3 {
+      color: #2c3e50;
+      margin-top: 5px;
+    }
+
+    .isi-about .anggota table p {
+      color: #7f8c8d;
+      margin-top: 5px;
+    }
+
+    /* Footer CSS */
+    .footer {
+      background-color: #2c3e50;
+      color: #ecf0f1;
+      text-align: center;
+      padding: 5px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+
+  <body>
+    <!-- Navbar -->
+    <nav class="nav">
+      <div class="containerr">
+        <div class="logo">
+          <a href="javascript:window.history.go(-1)">NotifyCast</a>
+        </div>
+        <div class="navbar">
+          <ul>
+            <li><a href="kritikSaran.html">Kritik dan Saran</a></li>
+            <li><a href="aboutus.html">About Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Tutup Navbar -->
+
+    <!-- Content -->
+    <div class="isi-about">
+      <div class="containerr">
+        <div class="isi-1">
+          <div class="judul">
+            <h3>About</h3>
+          </div>
+          <div class="teks">
+            <p>
+              NotifyCast merupakan sistem informasi berbasis web yang dapat
+              memudahkan proses komunikasi dan penyebaran informasi dengan
+              praktis. Sistem ini dirancang dengan tampilan serta alur kerja
+              yang sederhana agar meminimalisir kesulitan dalam penggunaannya.
+              Sistem informasi ini dirancang oleh 4 orang dengan metode
+              pengembangan waterfall.
+            </p>
+          </div>
+        </div>
+        <div class="isi-2">
+          <div class="judul">
+            <h3>Meet The Team Behind NotifyCasting</h3>
+          </div>
+          <div class="anggota">
+            <table>
+              <tr>
+                <td>
+                  <img src="img/profil.jpg" alt="arqam" />
+                </td>
+                <td>
+                  <img src="img/profil.jpg" alt="pikri" />
+                </td>
+                <td>
+                  <img src="img/profil.jpg" alt="dhias" />
+                </td>
+                <td>
+                  <img src="img/profil.jpg" alt="dhias" />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <h3>Muhammad Riko Kuswoyo</h3>
+                </td>
+                <td>
+                  <h3>Rosmida</h3>
+                </td>
+                <td>
+                  <h3>Nurul Anita Abd Hanan</h3>
+                </td>
+                <td>
+                  <h3>Alwi Hasyimi</h3>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p>Programmer</p>
+                </td>
+                <td>
+                  <p>Programmer</p>
+                </td>
+                <td>
+                  <p>Testing</p>
+                </td>
+                <td>
+                  <p>Data Analist</p>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Tutup content -->
+
+    <!-- Tutup Footer -->
+  </body>
+</html>
