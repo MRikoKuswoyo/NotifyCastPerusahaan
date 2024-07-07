@@ -1,0 +1,10 @@
+![WhatsApp Image 2024-07-07 at 19 38 59](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/c91a5dcf-f282-4f1e-9ab7-f3450588545a)
+![WhatsApp Image 2024-07-07 at 19 39 08 (1)](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/9834f3b0-c16d-4a02-a0ce-fac3924d9622)
+![WhatsApp Image 2024-07-07 at 19 39 11](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/c9e086e0-d0f5-49bb-a341-146a3465098b)
+![WhatsApp Image 2024-07-07 at 19 43 14](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/a7e61edf-640e-4896-9c58-137ee119bd91)
+![WhatsApp Image 2024-07-07 at 19 43 09](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/d21a8ef7-c4ad-48b1-bec9-ee9c3775bb36)
+![WhatsApp Image 2024-07-07 at 19 40 08](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/6fca9e57-60d5-473c-bb52-d5e8dcdb50af)
+![WhatsApp Image 2024-07-07 at 19 39 15](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/89ce7507-2871-4a00-9d06-c794997e211e)
+![WhatsApp Image 2024-07-07 at 19 44 38](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/c20e5471-8890-41ab-af16-7ef7b9c6cbe8)
+![WhatsApp Image 2024-07-07 at 19 40 02 (1)](https://github.com/MRikoKuswoyo/NotifyCastPerusahaan/assets/173586768/94656f4c-ccfa-45c5-a673-1430fcacd89c)
+
